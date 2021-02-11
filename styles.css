@@ -1,0 +1,14 @@
+.search-bar{
+  width:800px;
+  
+}
+
+.row{
+  padding: 10px;
+}
+
+@media only screen and (min-width: 600px) {
+  #best-seller{
+    margin: 50% 0;
+  }
+}
